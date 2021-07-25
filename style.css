@@ -1,12 +1,12 @@
 h1 {
-  color: red;
+  color: rgb(255, 255, 255);
 }
 h1 {
-  color: red;
-  background-color: rgb(158, 158, 255);
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 254, 254);
 }
 body {
-  background-color: rgb(190, 255, 190);
+  background-color: rgb(255, 255, 255);
 }
 li{
   list-style:none;
@@ -18,3 +18,6 @@ li{
       list-style:none;
       padding:20px 30px 20px 30px;
       }
+.main {
+  width: 100%
+}

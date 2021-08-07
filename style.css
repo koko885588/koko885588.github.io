@@ -21,3 +21,9 @@ li{
 .main {
   width: 100%
 }
+h1{
+  color: #ff8bff;
+  background: -webkit-linear-gradient(0deg, #8a9fff, #f1ff6f, #ff8bff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

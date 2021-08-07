@@ -1,0 +1,16 @@
+.info {
+  display: flex;
+}
+li{
+  list-style:none;
+  }
+  ul{
+    display:flex;
+    }
+    li{
+      list-style:none;
+      padding:20px 30px 20px 30px;
+      }
+h1 {
+  color: rgb(241, 224, 126) ;
+}
